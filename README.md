@@ -1,11 +1,6 @@
-## My Project
+## Cloudformation Resource Provider for Amazon Bedrock
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository contains AWS-owned resource providers for the AWS::Bedrock::* namespace.
 
 ## Security
 
